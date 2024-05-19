@@ -1,0 +1,41 @@
+Pilihlah semua jawaban yang benar.
+Berikut ini adalah variabel-variabel yang sering digunakan dalam credit rating:
+a.pendapatan
+b.banyaknya tanggungan
+c.sisa pinjaman
+d.status kepemilikan tempat tinggal
+Jawaban (a, b, c, d)
+
+Pilihlah satu jawaban yang benar.
+Principal Component Analysis merupakan teknik dimensi reduksi:
+a.supervised
+b.unsupervised
+Jawaban (b)
+
+Pilihlah tiga jawaban yang benar.
+Kesulitan yang timbul akibat banyaknya variabel yang digunakan, antara lain:
+a.kesulitan visualisasi data dengan dimensi tinggi
+b.error rate yang tinggi
+c.korelasi antar variabel prediktor
+d.mudah dijelaskan
+Jawaban (a, b, c)
+
+Pilihlah dua syarat pemilihan Principal Component yang benar:
+a.Panjang vektor yang memuat koefisien adalah 1
+b.Principal Component yang tidak memiliki korelasi dengan PC lain
+c.Principal Component yang memiliki korelasi tinggi dengan PC lain
+d.Principal Component yang memberikan variabilitas data terendah
+Jawaban (a, b)
+
+Kontribusi suatu principal component terhadap variabilitas data dapat dihitung dari:
+a.suatu nilai eigen dibagi dengan banyaknya variabel
+b.suatu vektor eigen dibagi dengan banyaknya variabel
+Jawaban (a)
+
+Pilihlah dua cara untuk menentukan banyaknya Principal Component yang akan dipilih.
+a.Menggambarkan Screeplot dan memilih angka pada elbow
+b.Memilih beberapa PC dimulai dari PC dengan varians tertinggi sampai dengan batas yang diinginkan
+c.Memilih beberapa PC dimulai dari PC dengan variabilitas data terendah
+d.Banyaknya PC yang dipilih sama dengan banyaknya variabel
+Jawaban (a, b)
+
