@@ -39,3 +39,46 @@ c.Memilih beberapa PC dimulai dari PC dengan variabilitas data terendah
 d.Banyaknya PC yang dipilih sama dengan banyaknya variabel
 Jawaban (a, b)
 
+Data berikut ini adalah data credit rating dengan 4 variabel input, yaitu income, dependents, empyear dan debt dan variabel output riskrating.
+
+##  income dependents empyear      debt riskrating
+## 1   295         5     12 4.69837074         4
+## 2   271         5     10 4.06385168         4
+## 3   159         0      5 0.05000000         1
+## 4   210         3      7 0.72138396         3
+## 5   165         0      5 0.06666667         2
+## 6   220         5      8 2.59791099         1
+Berikut ini adalah output dan scree plot analisa PCA pada data.
+
+## Importance of components:
+##                          PC1   PC2    PC3    PC4
+## Standard deviation    1.5071 1.1903 0.53654 0.15477
+## Proportion of Variance 0.5678 0.3542 0.07197 0.00599
+## Cumulative Proportion 0.5678 0.9220 0.99401 1.00000
+
+Berdasarkan Screeplot dan kriterion Kaiser, berapa Principal Component yang sebaiknya dipilih? Pilihlah jawaban yang benar.
+a.1
+b.2
+c.3
+d.4
+e.5
+Jawaban (b)
+
+Kuis Biplot
+Diberikan biplot untuk data credit scoring dengan 3 variabel input: income, asset dan dependents dan variabel output riskrating.
+Pilihlah dua pernyataan yang benar:
+a.Variabel asset dan income memberikan kontribusi terbesar pada PC1
+b.Variabel income dan asset memberikan kontribusi terbesar pada PC2
+c.Variabel dependent memberikan kontribusi terbesar pada PC1
+d.Variabel dependent memberikan kontribusi terbesar pada PC2
+Jawaban (a, d)
+
+Kuis Biplot
+Bandingkan observasi 159 dan observasi 418 dengan menggunakan biplot di atas. Pilihlah dua jawaban yang benar.
+a.Observasi 159 memiliki nilai asset dan income yang lebih kecil daripada observasi 418
+b.Observasi 159 memiliki nilai asset dan income yang lebih besar daripada observasi 418
+c.Observasi 159 memiliki dependent yang lebih banyak daripada observasi 418
+d.Observasi 418 memiliki dependent yang lebih banyak daripada observasi 159
+Jawaban (b, c)
+
+
